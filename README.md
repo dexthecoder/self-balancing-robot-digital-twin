@@ -121,7 +121,7 @@ Detaylı diyagramlar: [docs/](docs/)
 ## 7. Kurulum ve Projeyi Çalıştırma
 
 ```bash
-git clone https://github.com/<kullanici-adi>/self-balancing-robot-digital-twin.git
+git clone https://github.com/dexthecoder/self-balancing-robot-digital-twin.git
 cd self-balancing-robot-digital-twin
 python -m venv .venv
 # Windows: .venv\Scripts\activate   |   Linux/macOS: source .venv/bin/activate
