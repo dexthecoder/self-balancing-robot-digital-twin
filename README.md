@@ -173,6 +173,7 @@ Sonuçlar ve grafikler: [results/](results/)
 | Tarih | Yapılan Çalışma | Mevcut Durum / Sorun | Sonraki Adım |
 |---|---|---|---|
 | 2026-11-20 | Grup oluşturuldu, Konu 08 seçildi, GitHub deposu ve klasör yapısı hazırlandı | Repo iskeleti hazır | Dinamik modelin çıkarılması ve simülasyon ortamının kurulması |
+| 2026-11-21 | Depo GitHub'a yüklendi, depo linki kayıt formuna eklenmek üzere hazırlandı | Repo yapısı rehbere uygun | Üyelerin CV'lerinin `cv/` klasörüne eklenmesi |
 
 ---
 
